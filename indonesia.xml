@@ -129,8 +129,8 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_50.jpg" />
     <url>http://www.mncvision.id</url>
   </channel>
-  <channel id="Indosiar.id">
-    <display-name lang="id">Indosiar</display-name>
+  <channel id="IndosiarPekanbaru.id">
+    <display-name lang="id">Indosiar Pekanbaru</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/Indosiar.png" />
     <url>http://www.mncvision.id</url>
   </channel>
@@ -144,13 +144,13 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_81.png" />
     <url>http://www.mncvision.id</url>
   </channel>
-  <channel id="MNCTV.id">
-    <display-name lang="id">MNCTV</display-name>
+  <channel id="MNCTVRiau.id">
+    <display-name lang="id">MNCTV Riau</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/channel_82.png" />
     <url>http://www.mncvision.id</url>
   </channel>
-  <channel id="iNews.id">
-    <display-name lang="id">iNews</display-name>
+  <channel id="iNewsPekanbaru.id">
+    <display-name lang="id">iNews Pekanbaru</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/channel_83.png" />
     <url>http://www.mncvision.id</url>
   </channel>
@@ -174,8 +174,8 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_88.png" />
     <url>http://www.mncvision.id</url>
   </channel>
-  <channel id="SCTV.id">
-    <display-name lang="id">SCTV</display-name>
+  <channel id="SCTVPekanbaru.id">
+    <display-name lang="id">SCTV Pekanbaru</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/sctv.png" />
     <url>http://www.mncvision.id</url>
   </channel>
@@ -3268,49 +3268,49 @@
     <title lang="id">Home Shopping</title>
     <desc lang="id">Home Shopping.(n)</desc>
   </programme>
-  <programme start="20240317003000 +0700" stop="20240317020000 +0700" channel="Indosiar.id">
+  <programme start="20240317003000 +0700" stop="20240317020000 +0700" channel="IndosiarPekanbaru.id">
     <title lang="id">Mega Film Asia</title>
   </programme>
-  <programme start="20240317020000 +0700" stop="20240317050000 +0700" channel="Indosiar.id">
+  <programme start="20240317020000 +0700" stop="20240317050000 +0700" channel="IndosiarPekanbaru.id">
     <title lang="id">Aksi Asia 2024</title>
   </programme>
-  <programme start="20240317050000 +0700" stop="20240317070000 +0700" channel="Indosiar.id">
+  <programme start="20240317050000 +0700" stop="20240317070000 +0700" channel="IndosiarPekanbaru.id">
     <title lang="id">Pintu Berkah Spesial Ramadan</title>
   </programme>
-  <programme start="20240317070000 +0700" stop="20240317090000 +0700" channel="Indosiar.id">
+  <programme start="20240317070000 +0700" stop="20240317090000 +0700" channel="IndosiarPekanbaru.id">
     <title lang="id">Magic 5</title>
   </programme>
-  <programme start="20240317090000 +0700" stop="20240317103000 +0700" channel="Indosiar.id">
+  <programme start="20240317090000 +0700" stop="20240317103000 +0700" channel="IndosiarPekanbaru.id">
     <title lang="id">Kisah Nyata Pagi</title>
   </programme>
-  <programme start="20240317103000 +0700" stop="20240317110000 +0700" channel="Indosiar.id">
+  <programme start="20240317103000 +0700" stop="20240317110000 +0700" channel="IndosiarPekanbaru.id">
     <title lang="id">Best Kiss</title>
   </programme>
-  <programme start="20240317110000 +0700" stop="20240317113000 +0700" channel="Indosiar.id">
+  <programme start="20240317110000 +0700" stop="20240317113000 +0700" channel="IndosiarPekanbaru.id">
     <title lang="id">Patroli Siang</title>
   </programme>
-  <programme start="20240317113000 +0700" stop="20240317120000 +0700" channel="Indosiar.id">
+  <programme start="20240317113000 +0700" stop="20240317120000 +0700" channel="IndosiarPekanbaru.id">
     <title lang="id">Fokus Siang</title>
   </programme>
-  <programme start="20240317120000 +0700" stop="20240317133000 +0700" channel="Indosiar.id">
+  <programme start="20240317120000 +0700" stop="20240317133000 +0700" channel="IndosiarPekanbaru.id">
     <title lang="id">Kisah Nyata</title>
   </programme>
-  <programme start="20240317133000 +0700" stop="20240317153000 +0700" channel="Indosiar.id">
+  <programme start="20240317133000 +0700" stop="20240317153000 +0700" channel="IndosiarPekanbaru.id">
     <title lang="id">Kisah Nyata Spesial</title>
   </programme>
-  <programme start="20240317153000 +0700" stop="20240317173000 +0700" channel="Indosiar.id">
+  <programme start="20240317153000 +0700" stop="20240317173000 +0700" channel="IndosiarPekanbaru.id">
     <title lang="id">Pintu Berkah Spesial Ramadan</title>
   </programme>
-  <programme start="20240317173000 +0700" stop="20240317180000 +0700" channel="Indosiar.id">
+  <programme start="20240317173000 +0700" stop="20240317180000 +0700" channel="IndosiarPekanbaru.id">
     <title lang="id">Shihab &amp; Shihab</title>
   </programme>
-  <programme start="20240317180000 +0700" stop="20240317200000 +0700" channel="Indosiar.id">
+  <programme start="20240317180000 +0700" stop="20240317200000 +0700" channel="IndosiarPekanbaru.id">
     <title lang="id">Magic 5</title>
   </programme>
-  <programme start="20240317200000 +0700" stop="20240317223000 +0700" channel="Indosiar.id">
+  <programme start="20240317200000 +0700" stop="20240317223000 +0700" channel="IndosiarPekanbaru.id">
     <title lang="id">BRI Liga 1 2023/2024</title>
   </programme>
-  <programme start="20240317223000 +0700" stop="20240318003000 +0700" channel="Indosiar.id">
+  <programme start="20240317223000 +0700" stop="20240318003000 +0700" channel="IndosiarPekanbaru.id">
     <title lang="id">Mega Film Asia</title>
   </programme>
   <programme start="20240317010000 +0700" stop="20240317020000 +0700" channel="RCTI.id">
@@ -3439,118 +3439,118 @@
   <programme start="20240317223000 +0700" stop="20240318000000 +0700" channel="GTV.id">
     <title lang="id">Sea Monster</title>
   </programme>
-  <programme start="20240317003000 +0700" stop="20240317020000 +0700" channel="MNCTV.id">
+  <programme start="20240317003000 +0700" stop="20240317020000 +0700" channel="MNCTVRiau.id">
     <title lang="id">Sinema Blockbuster</title>
   </programme>
-  <programme start="20240317020000 +0700" stop="20240317040000 +0700" channel="MNCTV.id">
+  <programme start="20240317020000 +0700" stop="20240317040000 +0700" channel="MNCTVRiau.id">
     <title lang="id">Uang Kaget Lagi</title>
   </programme>
-  <programme start="20240317040000 +0700" stop="20240317053000 +0700" channel="MNCTV.id">
+  <programme start="20240317040000 +0700" stop="20240317053000 +0700" channel="MNCTVRiau.id">
     <title lang="id">Suparman Reborn S3</title>
   </programme>
-  <programme start="20240317053000 +0700" stop="20240317063000 +0700" channel="MNCTV.id">
+  <programme start="20240317053000 +0700" stop="20240317063000 +0700" channel="MNCTVRiau.id">
     <title lang="id">Layangan Terbang</title>
   </programme>
-  <programme start="20240317063000 +0700" stop="20240317070000 +0700" channel="MNCTV.id">
+  <programme start="20240317063000 +0700" stop="20240317070000 +0700" channel="MNCTVRiau.id">
     <title lang="id">Seleb On News 2024</title>
   </programme>
-  <programme start="20240317070000 +0700" stop="20240317073000 +0700" channel="MNCTV.id">
+  <programme start="20240317070000 +0700" stop="20240317073000 +0700" channel="MNCTVRiau.id">
     <title lang="id">Mechamato</title>
   </programme>
-  <programme start="20240317073000 +0700" stop="20240317080000 +0700" channel="MNCTV.id">
+  <programme start="20240317073000 +0700" stop="20240317080000 +0700" channel="MNCTVRiau.id">
     <title lang="id">Bima S</title>
   </programme>
-  <programme start="20240317080000 +0700" stop="20240317093000 +0700" channel="MNCTV.id">
+  <programme start="20240317080000 +0700" stop="20240317093000 +0700" channel="MNCTVRiau.id">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
-  <programme start="20240317093000 +0700" stop="20240317133000 +0700" channel="MNCTV.id">
+  <programme start="20240317093000 +0700" stop="20240317133000 +0700" channel="MNCTVRiau.id">
     <title lang="id">Kiko</title>
   </programme>
-  <programme start="20240317133000 +0700" stop="20240317160000 +0700" channel="MNCTV.id">
+  <programme start="20240317133000 +0700" stop="20240317160000 +0700" channel="MNCTVRiau.id">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
-  <programme start="20240317160000 +0700" stop="20240317173000 +0700" channel="MNCTV.id">
+  <programme start="20240317160000 +0700" stop="20240317173000 +0700" channel="MNCTVRiau.id">
     <title lang="id">Ngabuburit Bareng Upin &amp; Ipin</title>
   </programme>
-  <programme start="20240317173000 +0700" stop="20240317174500 +0700" channel="MNCTV.id">
+  <programme start="20240317173000 +0700" stop="20240317174500 +0700" channel="MNCTVRiau.id">
     <title lang="id">Rangkaian Berbuka</title>
   </programme>
-  <programme start="20240317174500 +0700" stop="20240317180000 +0700" channel="MNCTV.id">
+  <programme start="20240317174500 +0700" stop="20240317180000 +0700" channel="MNCTVRiau.id">
     <title lang="id">Entong</title>
   </programme>
-  <programme start="20240317180000 +0700" stop="20240317190000 +0700" channel="MNCTV.id">
+  <programme start="20240317180000 +0700" stop="20240317190000 +0700" channel="MNCTVRiau.id">
     <title lang="id">Buka Puasa Bareng Upin &amp; Ipin</title>
   </programme>
-  <programme start="20240317190000 +0700" stop="20240317210000 +0700" channel="MNCTV.id">
+  <programme start="20240317190000 +0700" stop="20240317210000 +0700" channel="MNCTVRiau.id">
     <title lang="id">Family 100</title>
   </programme>
-  <programme start="20240317210000 +0700" stop="20240317233000 +0700" channel="MNCTV.id">
+  <programme start="20240317210000 +0700" stop="20240317233000 +0700" channel="MNCTVRiau.id">
     <title lang="id">Kilau Uang Kaget &amp; Bedah Rumah</title>
   </programme>
-  <programme start="20240317233000 +0700" stop="20240318020000 +0700" channel="MNCTV.id">
+  <programme start="20240317233000 +0700" stop="20240318020000 +0700" channel="MNCTVRiau.id">
     <title lang="id">Sinema Blockbuster</title>
   </programme>
-  <programme start="20240317000000 +0700" stop="20240317023000 +0700" channel="iNews.id">
-    <title lang="id">Yonex All England Open 2024 (L)</title>
+  <programme start="20240317000000 +0700" stop="20240317023000 +0700" channel="iNewsPekanbaru.id">
+    <title lang="id">Yonex All England Open 2024</title>
   </programme>
-  <programme start="20240317023000 +0700" stop="20240317050000 +0700" channel="iNews.id">
-    <title lang="id">Yonex All England Open 2024 (L)</title>
+  <programme start="20240317023000 +0700" stop="20240317050000 +0700" channel="iNewsPekanbaru.id">
+    <title lang="id">Yonex All England Open 2024</title>
   </programme>
-  <programme start="20240317050000 +0700" stop="20240317050500 +0700" channel="iNews.id">
+  <programme start="20240317050000 +0700" stop="20240317050500 +0700" channel="iNewsPekanbaru.id">
     <title lang="id">Lentera Fajar</title>
   </programme>
-  <programme start="20240317050500 +0700" stop="20240317055800 +0700" channel="iNews.id">
-    <title lang="id">iNews Pagi (L)</title>
+  <programme start="20240317050500 +0700" stop="20240317055800 +0700" channel="iNewsPekanbaru.id">
+    <title lang="id">iNews Riau</title>
   </programme>
-  <programme start="20240317055800 +0700" stop="20240317060000 +0700" channel="iNews.id">
+  <programme start="20240317055800 +0700" stop="20240317060000 +0700" channel="iNewsPekanbaru.id">
     <title lang="id">Indonesia Raya</title>
   </programme>
-  <programme start="20240317060000 +0700" stop="20240317070000 +0700" channel="iNews.id">
+  <programme start="20240317060000 +0700" stop="20240317070000 +0700" channel="iNewsPekanbaru.id">
     <title lang="id">Formula E 2024: Sao Paulo</title>
   </programme>
-  <programme start="20240317070000 +0700" stop="20240317073000 +0700" channel="iNews.id">
+  <programme start="20240317070000 +0700" stop="20240317073000 +0700" channel="iNewsPekanbaru.id">
     <title lang="id">Merial</title>
   </programme>
-  <programme start="20240317073000 +0700" stop="20240317080000 +0700" channel="iNews.id">
+  <programme start="20240317073000 +0700" stop="20240317080000 +0700" channel="iNewsPekanbaru.id">
     <title lang="id">Realita</title>
   </programme>
-  <programme start="20240317080000 +0700" stop="20240317090000 +0700" channel="iNews.id">
+  <programme start="20240317080000 +0700" stop="20240317090000 +0700" channel="iNewsPekanbaru.id">
     <title lang="id">AB+</title>
   </programme>
-  <programme start="20240317090000 +0700" stop="20240317093000 +0700" channel="iNews.id">
+  <programme start="20240317090000 +0700" stop="20240317093000 +0700" channel="iNewsPekanbaru.id">
     <title lang="id">iNews Files</title>
   </programme>
-  <programme start="20240317093000 +0700" stop="20240317100000 +0700" channel="iNews.id">
+  <programme start="20240317093000 +0700" stop="20240317100000 +0700" channel="iNewsPekanbaru.id">
     <title lang="id">Sergap</title>
   </programme>
-  <programme start="20240317100000 +0700" stop="20240317103000 +0700" channel="iNews.id">
+  <programme start="20240317100000 +0700" stop="20240317103000 +0700" channel="iNewsPekanbaru.id">
     <title lang="id">Food Diary</title>
   </programme>
-  <programme start="20240317103000 +0700" stop="20240317120000 +0700" channel="iNews.id">
-    <title lang="id">iNews Siang (L)</title>
+  <programme start="20240317103000 +0700" stop="20240317120000 +0700" channel="iNewsPekanbaru.id">
+    <title lang="id">iNews Siang</title>
   </programme>
-  <programme start="20240317120000 +0700" stop="20240317140000 +0700" channel="iNews.id">
+  <programme start="20240317120000 +0700" stop="20240317140000 +0700" channel="iNewsPekanbaru.id">
     <title lang="id">Cahaya Hati Indonesia Spc.</title>
   </programme>
-  <programme start="20240317140000 +0700" stop="20240317143000 +0700" channel="iNews.id">
+  <programme start="20240317140000 +0700" stop="20240317143000 +0700" channel="iNewsPekanbaru.id">
     <title lang="id">Silet</title>
   </programme>
-  <programme start="20240317143000 +0700" stop="20240317154500 +0700" channel="iNews.id">
+  <programme start="20240317143000 +0700" stop="20240317154500 +0700" channel="iNewsPekanbaru.id">
     <title lang="id">iSeleb</title>
   </programme>
-  <programme start="20240317154500 +0700" stop="20240317165000 +0700" channel="iNews.id">
-    <title lang="id">Realita (L)</title>
+  <programme start="20240317154500 +0700" stop="20240317165000 +0700" channel="iNewsPekanbaru.id">
+    <title lang="id">Realita</title>
   </programme>
-  <programme start="20240317165000 +0700" stop="20240317174500 +0700" channel="iNews.id">
-    <title lang="id">Yonex All England Open 2024 (L)</title>
+  <programme start="20240317165000 +0700" stop="20240317174500 +0700" channel="iNewsPekanbaru.id">
+    <title lang="id">Yonex All England Open 2024</title>
   </programme>
-  <programme start="20240317174500 +0700" stop="20240317180700 +0700" channel="iNews.id">
+  <programme start="20240317174500 +0700" stop="20240317180700 +0700" channel="iNewsPekanbaru.id">
     <title lang="id">Kultum Bersama Ust. Widjayanto</title>
   </programme>
-  <programme start="20240317180700 +0700" stop="20240317220000 +0700" channel="iNews.id">
-    <title lang="id">Yonex All England Open 2024 (L)</title>
+  <programme start="20240317180700 +0700" stop="20240317220000 +0700" channel="iNewsPekanbaru.id">
+    <title lang="id">Yonex All England Open 2024</title>
   </programme>
-  <programme start="20240317220000 +0700" stop="20240318001500 +0700" channel="iNews.id">
+  <programme start="20240317220000 +0700" stop="20240318001500 +0700" channel="iNewsPekanbaru.id">
     <title lang="id">Djakarta 1966</title>
   </programme>
   <programme start="20240317003000 +0700" stop="20240317023000 +0700" channel="MNCNews.id">
@@ -3805,55 +3805,55 @@
   <programme start="20240317223000 +0700" stop="20240318000000 +0700" channel="Sportstars4">
     <title lang="id">Sportstars4</title>
   </programme>
-  <programme start="20240317013000 +0700" stop="20240317023000 +0700" channel="SCTV.id">
+  <programme start="20240317013000 +0700" stop="20240317023000 +0700" channel="SCTVPekanbaru.id">
     <title lang="id">Trio Gabut Kursus Iman</title>
   </programme>
-  <programme start="20240317023000 +0700" stop="20240317043000 +0700" channel="SCTV.id">
+  <programme start="20240317023000 +0700" stop="20240317043000 +0700" channel="SCTVPekanbaru.id">
     <title lang="id">Para Pencari Tuhan Jilid 17</title>
   </programme>
-  <programme start="20240317043000 +0700" stop="20240317060000 +0700" channel="SCTV.id">
+  <programme start="20240317043000 +0700" stop="20240317060000 +0700" channel="SCTVPekanbaru.id">
     <title lang="id">FTV Ramadan</title>
   </programme>
-  <programme start="20240317060000 +0700" stop="20240317070000 +0700" channel="SCTV.id">
-    <title lang="id">Liputan 6 Pagi (L)</title>
+  <programme start="20240317060000 +0700" stop="20240317070000 +0700" channel="SCTVPekanbaru.id">
+    <title lang="id">Berita Pekanbaru</title>
   </programme>
-  <programme start="20240317070000 +0700" stop="20240317073000 +0700" channel="SCTV.id">
+  <programme start="20240317070000 +0700" stop="20240317073000 +0700" channel="SCTVPekanbaru.id">
     <title lang="id">Point Of View</title>
   </programme>
-  <programme start="20240317073000 +0700" stop="20240317083000 +0700" channel="SCTV.id">
+  <programme start="20240317073000 +0700" stop="20240317083000 +0700" channel="SCTVPekanbaru.id">
     <title lang="id">Halo Selebriti</title>
   </programme>
-  <programme start="20240317083000 +0700" stop="20240317100000 +0700" channel="SCTV.id">
+  <programme start="20240317083000 +0700" stop="20240317100000 +0700" channel="SCTVPekanbaru.id">
     <title lang="id">Cewek Keripik Level Cintanya...</title>
   </programme>
-  <programme start="20240317100000 +0700" stop="20240317120000 +0700" channel="SCTV.id">
+  <programme start="20240317100000 +0700" stop="20240317120000 +0700" channel="SCTVPekanbaru.id">
     <title lang="id">Katanya Musuhan Kok Malah...</title>
   </programme>
-  <programme start="20240317120000 +0700" stop="20240317123000 +0700" channel="SCTV.id">
-    <title lang="id">Liputan 6 Siang (L)</title>
+  <programme start="20240317120000 +0700" stop="20240317123000 +0700" channel="SCTVPekanbaru.id">
+    <title lang="id">Liputan 6 Siang</title>
   </programme>
-  <programme start="20240317123000 +0700" stop="20240317143000 +0700" channel="SCTV.id">
+  <programme start="20240317123000 +0700" stop="20240317143000 +0700" channel="SCTVPekanbaru.id">
     <title lang="id">Jalan Terjal Penjual Ayam Tiren</title>
   </programme>
-  <programme start="20240317143000 +0700" stop="20240317163000 +0700" channel="SCTV.id">
+  <programme start="20240317143000 +0700" stop="20240317163000 +0700" channel="SCTVPekanbaru.id">
     <title lang="id">Suster El</title>
   </programme>
-  <programme start="20240317163000 +0700" stop="20240317174500 +0700" channel="SCTV.id">
+  <programme start="20240317163000 +0700" stop="20240317174500 +0700" channel="SCTVPekanbaru.id">
     <title lang="id">Ijabah Cinta</title>
   </programme>
-  <programme start="20240317174500 +0700" stop="20240317181500 +0700" channel="SCTV.id">
+  <programme start="20240317174500 +0700" stop="20240317181500 +0700" channel="SCTVPekanbaru.id">
     <title lang="id">Mengetuk Pintu Hati</title>
   </programme>
-  <programme start="20240317181500 +0700" stop="20240317200000 +0700" channel="SCTV.id">
+  <programme start="20240317181500 +0700" stop="20240317200000 +0700" channel="SCTVPekanbaru.id">
     <title lang="id">Bidadari Surgamu</title>
   </programme>
-  <programme start="20240317200000 +0700" stop="20240317220000 +0700" channel="SCTV.id">
+  <programme start="20240317200000 +0700" stop="20240317220000 +0700" channel="SCTVPekanbaru.id">
     <title lang="id">Tertawan Hati</title>
   </programme>
-  <programme start="20240317220000 +0700" stop="20240317231500 +0700" channel="SCTV.id">
+  <programme start="20240317220000 +0700" stop="20240317231500 +0700" channel="SCTVPekanbaru.id">
     <title lang="id">Di Antara Dua Cinta</title>
   </programme>
-  <programme start="20240317231500 +0700" stop="20240318013000 +0700" channel="SCTV.id">
+  <programme start="20240317231500 +0700" stop="20240318013000 +0700" channel="SCTVPekanbaru.id">
     <title lang="id">Ayam Sang Bodyguard</title>
   </programme>
   <programme start="20240317003000 +0700" stop="20240317010000 +0700" channel="LifestyleandFashion.id">
